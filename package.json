@@ -1,0 +1,19 @@
+{
+  "name": "testforme",
+  "version": "1.0.0",
+  "description": "weill be OK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleh77777/testForMe.git"
+  },
+  "author": "oleh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oleh77777/testForMe/issues"
+  },
+  "homepage": "https://github.com/oleh77777/testForMe#readme"
+}
